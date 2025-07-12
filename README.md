@@ -32,14 +32,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Panth-dat/Leets/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Panth-dat/Leets/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Panth-dat/Leets/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Panth-dat/Leets/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Panth-dat/Leets/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Panth-dat/Leets/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Panth-dat/Leets/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/Panth-dat/Leets/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
