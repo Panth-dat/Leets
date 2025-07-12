@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Panth-dat/Leets/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Panth-dat/Leets/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Panth-dat/Leets/tree/master/3617-find-the-original-typed-string-i) |
+| [3893-generate-tag-for-video-caption](https://github.com/Panth-dat/Leets/tree/master/3893-generate-tag-for-video-caption) |
 ## Greedy
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Panth-dat/Leets/tree/master/0412-fizz-buzz) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Panth-dat/Leets/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3625-stone-removal-game](https://github.com/Panth-dat/Leets/tree/master/3625-stone-removal-game) |
+| [3893-generate-tag-for-video-caption](https://github.com/Panth-dat/Leets/tree/master/3893-generate-tag-for-video-caption) |
 ## Brainteaser
 |  |
 | ------- |
