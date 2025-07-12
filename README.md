@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-airplane-seat-assignment-probability](https://github.com/Panth-dat/Leets/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/Panth-dat/Leets/tree/master/1448-maximum-69-number) |
 | [2481-strictly-palindromic-number](https://github.com/Panth-dat/Leets/tree/master/2481-strictly-palindromic-number) |
+| [2619-categorize-box-according-to-criteria](https://github.com/Panth-dat/Leets/tree/master/2619-categorize-box-according-to-criteria) |
 ## Recursion
 |  |
 | ------- |
