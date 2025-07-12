@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Panth-dat/Leets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Panth-dat/Leets/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Panth-dat/Leets/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Panth-dat/Leets/tree/master/0168-excel-sheet-column-title) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Panth-dat/Leets/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Greedy
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Panth-dat/Leets/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Panth-dat/Leets/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Panth-dat/Leets/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/Panth-dat/Leets/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Panth-dat/Leets/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Panth-dat/Leets/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Panth-dat/Leets/tree/master/0342-power-of-four) |
