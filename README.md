@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Panth-dat/Leets/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Panth-dat/Leets/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Panth-dat/Leets/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Panth-dat/Leets/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Panth-dat/Leets/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Panth-dat/Leets/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Panth-dat/Leets/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
