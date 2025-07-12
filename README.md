@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Panth-dat/Leets/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Panth-dat/Leets/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Panth-dat/Leets/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Panth-dat/Leets/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Panth-dat/Leets/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Panth-dat/Leets/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Panth-dat/Leets/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Panth-dat/Leets/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Panth-dat/Leets/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Panth-dat/Leets/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Panth-dat/Leets/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Panth-dat/Leets/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Panth-dat/Leets/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Panth-dat/Leets/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Panth-dat/Leets/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
@@ -122,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Panth-dat/Leets/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Panth-dat/Leets/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Panth-dat/Leets/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
