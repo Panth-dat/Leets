@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Panth-dat/Leets/tree/master/0412-fizz-buzz) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Panth-dat/Leets/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Panth-dat/Leets/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/Panth-dat/Leets/tree/master/3462-vowels-game-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Panth-dat/Leets/tree/master/2481-strictly-palindromic-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Panth-dat/Leets/tree/master/2619-categorize-box-according-to-criteria) |
 | [2850-construct-the-longest-new-string](https://github.com/Panth-dat/Leets/tree/master/2850-construct-the-longest-new-string) |
+| [3462-vowels-game-in-a-string](https://github.com/Panth-dat/Leets/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -198,11 +200,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-airplane-seat-assignment-probability](https://github.com/Panth-dat/Leets/tree/master/1362-airplane-seat-assignment-probability) |
 | [2481-strictly-palindromic-number](https://github.com/Panth-dat/Leets/tree/master/2481-strictly-palindromic-number) |
 | [2850-construct-the-longest-new-string](https://github.com/Panth-dat/Leets/tree/master/2850-construct-the-longest-new-string) |
+| [3462-vowels-game-in-a-string](https://github.com/Panth-dat/Leets/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Panth-dat/Leets/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Panth-dat/Leets/tree/master/1086-divisor-game) |
+| [3462-vowels-game-in-a-string](https://github.com/Panth-dat/Leets/tree/master/3462-vowels-game-in-a-string) |
 ## Probability and Statistics
 |  |
 | ------- |
