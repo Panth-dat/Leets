@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Panth-dat/Leets/tree/master/0011-container-with-most-water) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Panth-dat/Leets/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Counting
 |  |
@@ -19,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Panth-dat/Leets/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Panth-dat/Leets/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Panth-dat/Leets/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Panth-dat/Leets/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Panth-dat/Leets/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Panth-dat/Leets/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Panth-dat/Leets/tree/master/0027-remove-element) |
 ## Math
 |  |
