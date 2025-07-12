@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Panth-dat/Leets/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Panth-dat/Leets/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Panth-dat/Leets/tree/master/0345-reverse-vowels-of-a-string) |
+| [2481-strictly-palindromic-number](https://github.com/Panth-dat/Leets/tree/master/2481-strictly-palindromic-number) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Panth-dat/Leets/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Panth-dat/Leets/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/Panth-dat/Leets/tree/master/1448-maximum-69-number) |
+| [2481-strictly-palindromic-number](https://github.com/Panth-dat/Leets/tree/master/2481-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Panth-dat/Leets/tree/master/0319-bulb-switcher) |
 | [1086-divisor-game](https://github.com/Panth-dat/Leets/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Panth-dat/Leets/tree/master/1362-airplane-seat-assignment-probability) |
+| [2481-strictly-palindromic-number](https://github.com/Panth-dat/Leets/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
