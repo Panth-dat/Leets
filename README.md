@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Panth-dat/Leets/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Panth-dat/Leets/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Panth-dat/Leets/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Panth-dat/Leets/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Panth-dat/Leets/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -133,8 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Panth-dat/Leets/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Panth-dat/Leets/tree/master/0258-add-digits) |
 ## Matrix
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Panth-dat/Leets/tree/master/0240-search-a-2d-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Panth-dat/Leets/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
