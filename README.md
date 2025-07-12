@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Panth-dat/Leets/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Array
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Panth-dat/Leets/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Panth-dat/Leets/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Panth-dat/Leets/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Panth-dat/Leets/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -90,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Panth-dat/Leets/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Panth-dat/Leets/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Panth-dat/Leets/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Panth-dat/Leets/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Panth-dat/Leets/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Panth-dat/Leets/tree/master/0217-contains-duplicate) |
 ## String Matching
 |  |
@@ -109,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Panth-dat/Leets/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Panth-dat/Leets/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Panth-dat/Leets/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
