@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Panth-dat/Leets/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Panth-dat/Leets/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Panth-dat/Leets/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/Panth-dat/Leets/tree/master/0242-valid-anagram) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Panth-dat/Leets/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Greedy
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Panth-dat/Leets/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Panth-dat/Leets/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Panth-dat/Leets/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Panth-dat/Leets/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Panth-dat/Leets/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Panth-dat/Leets/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
