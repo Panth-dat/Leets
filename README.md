@@ -13,7 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Panth-dat/Leets/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Panth-dat/Leets/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Panth-dat/Leets/tree/master/0345-reverse-vowels-of-a-string) |
-| [0383-ransom-note](https://github.com/Panth-dat/Leets/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/Panth-dat/Leets/tree/master/0412-fizz-buzz) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Panth-dat/Leets/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Greedy
 |  |
@@ -24,7 +24,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
-| [0383-ransom-note](https://github.com/Panth-dat/Leets/tree/master/0383-ransom-note) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Panth-dat/Leets/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Array
 |  |
@@ -84,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Panth-dat/Leets/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Panth-dat/Leets/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Panth-dat/Leets/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Panth-dat/Leets/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -117,7 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Panth-dat/Leets/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Panth-dat/Leets/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
-| [0383-ransom-note](https://github.com/Panth-dat/Leets/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Panth-dat/Leets/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Panth-dat/Leets/tree/master/0412-fizz-buzz) |
 ## Brainteaser
 |  |
 | ------- |
