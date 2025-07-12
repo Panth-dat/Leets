@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Panth-dat/Leets/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Panth-dat/Leets/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3625-stone-removal-game](https://github.com/Panth-dat/Leets/tree/master/3625-stone-removal-game) |
+| [3859-maximum-product-of-two-digits](https://github.com/Panth-dat/Leets/tree/master/3859-maximum-product-of-two-digits) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Panth-dat/Leets/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Recursion
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Panth-dat/Leets/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Panth-dat/Leets/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
+| [3859-maximum-product-of-two-digits](https://github.com/Panth-dat/Leets/tree/master/3859-maximum-product-of-two-digits) |
 ## String Matching
 |  |
 | ------- |
