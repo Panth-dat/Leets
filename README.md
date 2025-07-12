@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Panth-dat/Leets/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Panth-dat/Leets/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Panth-dat/Leets/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Panth-dat/Leets/tree/master/1086-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Panth-dat/Leets/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Panth-dat/Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Panth-dat/Leets/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Panth-dat/Leets/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -178,8 +180,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Panth-dat/Leets/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Panth-dat/Leets/tree/master/0319-bulb-switcher) |
+| [1086-divisor-game](https://github.com/Panth-dat/Leets/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Panth-dat/Leets/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Panth-dat/Leets/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
