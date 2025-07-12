@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Panth-dat/Leets/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Panth-dat/Leets/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Panth-dat/Leets/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Panth-dat/Leets/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Panth-dat/Leets/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Panth-dat/Leets/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Panth-dat/Leets/tree/master/0231-power-of-two) |
@@ -88,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Panth-dat/Leets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Panth-dat/Leets/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Panth-dat/Leets/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
