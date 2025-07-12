@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2619-categorize-box-according-to-criteria](https://github.com/Panth-dat/Leets/tree/master/2619-categorize-box-according-to-criteria) |
 | [2850-construct-the-longest-new-string](https://github.com/Panth-dat/Leets/tree/master/2850-construct-the-longest-new-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Panth-dat/Leets/tree/master/3462-vowels-game-in-a-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Panth-dat/Leets/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3625-stone-removal-game](https://github.com/Panth-dat/Leets/tree/master/3625-stone-removal-game) |
 ## Recursion
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Panth-dat/Leets/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Panth-dat/Leets/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Panth-dat/Leets/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Panth-dat/Leets/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Panth-dat/Leets/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Panth-dat/Leets/tree/master/0342-power-of-four) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Panth-dat/Leets/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Panth-dat/Leets/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Panth-dat/Leets/tree/master/0412-fizz-buzz) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Panth-dat/Leets/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3625-stone-removal-game](https://github.com/Panth-dat/Leets/tree/master/3625-stone-removal-game) |
 ## Brainteaser
 |  |
