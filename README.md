@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Panth-dat/Leets/tree/master/0412-fizz-buzz) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Panth-dat/Leets/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Panth-dat/Leets/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [3396-valid-word](https://github.com/Panth-dat/Leets/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Panth-dat/Leets/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Panth-dat/Leets/tree/master/3617-find-the-original-typed-string-i) |
 | [3893-generate-tag-for-video-caption](https://github.com/Panth-dat/Leets/tree/master/3893-generate-tag-for-video-caption) |
