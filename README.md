@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Panth-dat/Leets/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Panth-dat/Leets/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Panth-dat/Leets/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Panth-dat/Leets/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Panth-dat/Leets/tree/master/0283-move-zeroes) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Panth-dat/Leets/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Panth-dat/Leets/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Panth-dat/Leets/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Panth-dat/Leets/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Panth-dat/Leets/tree/master/0349-intersection-of-two-arrays) |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Panth-dat/Leets/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Panth-dat/Leets/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
