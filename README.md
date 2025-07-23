@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Panth-dat/Leets/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Panth-dat/Leets/tree/master/0500-keyboard-row) |
 | [0792-binary-search](https://github.com/Panth-dat/Leets/tree/master/0792-binary-search) |
+| [1115-valid-boomerang](https://github.com/Panth-dat/Leets/tree/master/1115-valid-boomerang) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Panth-dat/Leets/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Panth-dat/Leets/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Panth-dat/Leets/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Panth-dat/Leets/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Panth-dat/Leets/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Panth-dat/Leets/tree/master/1086-divisor-game) |
+| [1115-valid-boomerang](https://github.com/Panth-dat/Leets/tree/master/1115-valid-boomerang) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Panth-dat/Leets/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/Panth-dat/Leets/tree/master/1448-maximum-69-number) |
 | [2481-strictly-palindromic-number](https://github.com/Panth-dat/Leets/tree/master/2481-strictly-palindromic-number) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Panth-dat/Leets/tree/master/0219-contains-duplicate-ii) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/Panth-dat/Leets/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
