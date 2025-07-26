@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Panth-dat/Leets/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Panth-dat/Leets/tree/master/0500-keyboard-row) |
 | [0792-binary-search](https://github.com/Panth-dat/Leets/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/1019-squares-of-a-sorted-array) |
 | [1115-valid-boomerang](https://github.com/Panth-dat/Leets/tree/master/1115-valid-boomerang) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Panth-dat/Leets/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Panth-dat/Leets/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Panth-dat/Leets/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Panth-dat/Leets/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Panth-dat/Leets/tree/master/0349-intersection-of-two-arrays) |
+| [1019-squares-of-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/1019-squares-of-a-sorted-array) |
 | [2481-strictly-palindromic-number](https://github.com/Panth-dat/Leets/tree/master/2481-strictly-palindromic-number) |
 ## Math
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Panth-dat/Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Panth-dat/Leets/tree/master/0389-find-the-difference) |
+| [1019-squares-of-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/1019-squares-of-a-sorted-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/Panth-dat/Leets/tree/master/3859-maximum-product-of-two-digits) |
 ## String Matching
 |  |
