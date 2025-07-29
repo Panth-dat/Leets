@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Panth-dat/Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Panth-dat/Leets/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Panth-dat/Leets/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Panth-dat/Leets/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/1019-squares-of-a-sorted-array) |
 | [1115-valid-boomerang](https://github.com/Panth-dat/Leets/tree/master/1115-valid-boomerang) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Panth-dat/Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Panth-dat/Leets/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Panth-dat/Leets/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Panth-dat/Leets/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
