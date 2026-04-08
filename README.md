@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Panth-dat/Leets/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Panth-dat/Leets/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3866-first-unique-even-element](https://github.com/Panth-dat/Leets/tree/master/3866-first-unique-even-element) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Panth-dat/Leets/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Array
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/Panth-dat/Leets/tree/master/1115-valid-boomerang) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Panth-dat/Leets/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Panth-dat/Leets/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3866-first-unique-even-element](https://github.com/Panth-dat/Leets/tree/master/3866-first-unique-even-element) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Panth-dat/Leets/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Panth-dat/Leets/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Panth-dat/Leets/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Panth-dat/Leets/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/Panth-dat/Leets/tree/master/0500-keyboard-row) |
+| [3866-first-unique-even-element](https://github.com/Panth-dat/Leets/tree/master/3866-first-unique-even-element) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Panth-dat/Leets/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sorting
 |  |
