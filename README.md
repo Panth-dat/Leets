@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/Panth-dat/Leets/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Panth-dat/Leets/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Panth-dat/Leets/tree/master/3617-find-the-original-typed-string-i) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Panth-dat/Leets/tree/master/3884-first-matching-character-from-both-ends) |
 | [3893-generate-tag-for-video-caption](https://github.com/Panth-dat/Leets/tree/master/3893-generate-tag-for-video-caption) |
 ## Greedy
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/1019-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Panth-dat/Leets/tree/master/2000-reverse-prefix-of-word) |
 | [2481-strictly-palindromic-number](https://github.com/Panth-dat/Leets/tree/master/2481-strictly-palindromic-number) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Panth-dat/Leets/tree/master/3884-first-matching-character-from-both-ends) |
 ## Math
 |  |
 | ------- |
