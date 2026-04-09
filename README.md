@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-stone-removal-game](https://github.com/Panth-dat/Leets/tree/master/3625-stone-removal-game) |
 | [3859-maximum-product-of-two-digits](https://github.com/Panth-dat/Leets/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Panth-dat/Leets/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3870-count-commas-in-range](https://github.com/Panth-dat/Leets/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Panth-dat/Leets/tree/master/3875-construct-uniform-parity-array-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Panth-dat/Leets/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Recursion
