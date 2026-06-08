@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Panth-dat/Leets/tree/master/0888-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/1019-squares-of-a-sorted-array) |
 | [1115-valid-boomerang](https://github.com/Panth-dat/Leets/tree/master/1115-valid-boomerang) |
+| [2574-left-and-right-sum-differences](https://github.com/Panth-dat/Leets/tree/master/2574-left-and-right-sum-differences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Panth-dat/Leets/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Panth-dat/Leets/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3866-first-unique-even-element](https://github.com/Panth-dat/Leets/tree/master/3866-first-unique-even-element) |
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Panth-dat/Leets/tree/master/0357-count-numbers-with-unique-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Panth-dat/Leets/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
