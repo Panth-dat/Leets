@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Panth-dat/Leets/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Panth-dat/Leets/tree/master/0792-binary-search) |
 | [0888-fair-candy-swap](https://github.com/Panth-dat/Leets/tree/master/0888-fair-candy-swap) |
+| [0941-valid-mountain-array](https://github.com/Panth-dat/Leets/tree/master/0941-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/1019-squares-of-a-sorted-array) |
 | [1115-valid-boomerang](https://github.com/Panth-dat/Leets/tree/master/1115-valid-boomerang) |
 | [2574-left-and-right-sum-differences](https://github.com/Panth-dat/Leets/tree/master/2574-left-and-right-sum-differences) |
