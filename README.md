@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Panth-dat/Leets/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Panth-dat/Leets/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Panth-dat/Leets/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Panth-dat/Leets/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Panth-dat/Leets/tree/master/0888-fair-candy-swap) |
 | [0941-valid-mountain-array](https://github.com/Panth-dat/Leets/tree/master/0941-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/1019-squares-of-a-sorted-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Panth-dat/Leets/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Panth-dat/Leets/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Panth-dat/Leets/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Panth-dat/Leets/tree/master/0888-fair-candy-swap) |
 | [1095-find-in-mountain-array](https://github.com/Panth-dat/Leets/tree/master/1095-find-in-mountain-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Panth-dat/Leets/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
