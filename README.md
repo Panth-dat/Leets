@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Panth-dat/Leets/tree/master/1095-find-in-mountain-array) |
 | [1115-valid-boomerang](https://github.com/Panth-dat/Leets/tree/master/1115-valid-boomerang) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Panth-dat/Leets/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Panth-dat/Leets/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Panth-dat/Leets/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2574-left-and-right-sum-differences](https://github.com/Panth-dat/Leets/tree/master/2574-left-and-right-sum-differences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Panth-dat/Leets/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Panth-dat/Leets/tree/master/0414-third-maximum-number) |
 | [0888-fair-candy-swap](https://github.com/Panth-dat/Leets/tree/master/0888-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/1019-squares-of-a-sorted-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Panth-dat/Leets/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3859-maximum-product-of-two-digits](https://github.com/Panth-dat/Leets/tree/master/3859-maximum-product-of-two-digits) |
 ## String Matching
 |  |
