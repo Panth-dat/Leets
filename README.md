@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Panth-dat/Leets/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Panth-dat/Leets/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/Panth-dat/Leets/tree/master/1115-valid-boomerang) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Panth-dat/Leets/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Panth-dat/Leets/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/Panth-dat/Leets/tree/master/1448-maximum-69-number) |
 | [2481-strictly-palindromic-number](https://github.com/Panth-dat/Leets/tree/master/2481-strictly-palindromic-number) |
