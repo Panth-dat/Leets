@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Panth-dat/Leets/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Panth-dat/Leets/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/Panth-dat/Leets/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/Panth-dat/Leets/tree/master/2390-removing-stars-from-a-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Panth-dat/Leets/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3396-valid-word](https://github.com/Panth-dat/Leets/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Panth-dat/Leets/tree/master/3462-vowels-game-in-a-string) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Panth-dat/Leets/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Panth-dat/Leets/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Panth-dat/Leets/tree/master/0412-fizz-buzz) |
+| [2390-removing-stars-from-a-string](https://github.com/Panth-dat/Leets/tree/master/2390-removing-stars-from-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Panth-dat/Leets/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Panth-dat/Leets/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Panth-dat/Leets/tree/master/3614-process-string-with-special-operations-ii) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Panth-dat/Leets/tree/master/0020-valid-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Panth-dat/Leets/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/Panth-dat/Leets/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
