@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Panth-dat/Leets/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/Panth-dat/Leets/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Panth-dat/Leets/tree/master/2390-removing-stars-from-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/Panth-dat/Leets/tree/master/2405-optimal-partition-of-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Panth-dat/Leets/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3396-valid-word](https://github.com/Panth-dat/Leets/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Panth-dat/Leets/tree/master/3462-vowels-game-in-a-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Panth-dat/Leets/tree/master/0011-container-with-most-water) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Panth-dat/Leets/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Panth-dat/Leets/tree/master/1448-maximum-69-number) |
+| [2405-optimal-partition-of-string](https://github.com/Panth-dat/Leets/tree/master/2405-optimal-partition-of-string) |
 | [2850-construct-the-longest-new-string](https://github.com/Panth-dat/Leets/tree/master/2850-construct-the-longest-new-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Panth-dat/Leets/tree/master/3689-maximum-total-subarray-value-i) |
 ## Counting
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Panth-dat/Leets/tree/master/0500-keyboard-row) |
 | [0888-fair-candy-swap](https://github.com/Panth-dat/Leets/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/Panth-dat/Leets/tree/master/1189-maximum-number-of-balloons) |
+| [2405-optimal-partition-of-string](https://github.com/Panth-dat/Leets/tree/master/2405-optimal-partition-of-string) |
 | [3866-first-unique-even-element](https://github.com/Panth-dat/Leets/tree/master/3866-first-unique-even-element) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Panth-dat/Leets/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sorting
