@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Panth-dat/Leets/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1732-find-the-highest-altitude](https://github.com/Panth-dat/Leets/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Panth-dat/Leets/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Panth-dat/Leets/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Panth-dat/Leets/tree/master/2574-left-and-right-sum-differences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Panth-dat/Leets/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2951-find-the-peaks](https://github.com/Panth-dat/Leets/tree/master/2951-find-the-peaks) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Panth-dat/Leets/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Panth-dat/Leets/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/Panth-dat/Leets/tree/master/1448-maximum-69-number) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Panth-dat/Leets/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Panth-dat/Leets/tree/master/2481-strictly-palindromic-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Panth-dat/Leets/tree/master/2619-categorize-box-according-to-criteria) |
 | [2850-construct-the-longest-new-string](https://github.com/Panth-dat/Leets/tree/master/2850-construct-the-longest-new-string) |
