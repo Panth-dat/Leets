@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Panth-dat/Leets/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Panth-dat/Leets/tree/master/1189-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Panth-dat/Leets/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Panth-dat/Leets/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Panth-dat/Leets/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Panth-dat/Leets/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Panth-dat/Leets/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Panth-dat/Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Panth-dat/Leets/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Panth-dat/Leets/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Panth-dat/Leets/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Panth-dat/Leets/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Panth-dat/Leets/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Panth-dat/Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Panth-dat/Leets/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Panth-dat/Leets/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Panth-dat/Leets/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Panth-dat/Leets/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Panth-dat/Leets/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Panth-dat/Leets/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Panth-dat/Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Panth-dat/Leets/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Panth-dat/Leets/tree/master/0414-third-maximum-number) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Panth-dat/Leets/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Panth-dat/Leets/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Panth-dat/Leets/tree/master/0347-top-k-frequent-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -365,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Panth-dat/Leets/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Panth-dat/Leets/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -383,4 +389,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Panth-dat/Leets/tree/master/1095-find-in-mountain-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Panth-dat/Leets/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Panth-dat/Leets/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
