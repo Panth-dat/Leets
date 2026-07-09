@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Panth-dat/Leets/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Panth-dat/Leets/tree/master/0316-remove-duplicate-letters) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Panth-dat/Leets/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Panth-dat/Leets/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Panth-dat/Leets/tree/master/1448-maximum-69-number) |
 | [2405-optimal-partition-of-string](https://github.com/Panth-dat/Leets/tree/master/2405-optimal-partition-of-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Panth-dat/Leets/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Panth-dat/Leets/tree/master/0888-fair-candy-swap) |
 | [0941-valid-mountain-array](https://github.com/Panth-dat/Leets/tree/master/0941-valid-mountain-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Panth-dat/Leets/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1019-squares-of-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/Panth-dat/Leets/tree/master/1095-find-in-mountain-array) |
 | [1115-valid-boomerang](https://github.com/Panth-dat/Leets/tree/master/1115-valid-boomerang) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Panth-dat/Leets/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Panth-dat/Leets/tree/master/0414-third-maximum-number) |
 | [0888-fair-candy-swap](https://github.com/Panth-dat/Leets/tree/master/0888-fair-candy-swap) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Panth-dat/Leets/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1019-squares-of-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/1019-squares-of-a-sorted-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Panth-dat/Leets/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3859-maximum-product-of-two-digits](https://github.com/Panth-dat/Leets/tree/master/3859-maximum-product-of-two-digits) |
