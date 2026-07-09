@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Panth-dat/Leets/tree/master/0888-fair-candy-swap) |
 | [0941-valid-mountain-array](https://github.com/Panth-dat/Leets/tree/master/0941-valid-mountain-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Panth-dat/Leets/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Panth-dat/Leets/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/Panth-dat/Leets/tree/master/1095-find-in-mountain-array) |
 | [1115-valid-boomerang](https://github.com/Panth-dat/Leets/tree/master/1115-valid-boomerang) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Panth-dat/Leets/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Panth-dat/Leets/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Panth-dat/Leets/tree/master/0476-number-complement) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Panth-dat/Leets/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Panth-dat/Leets/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Panth-dat/Leets/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Panth-dat/Leets/tree/master/3674-minimum-operations-to-equalize-array) |
