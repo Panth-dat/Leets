@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Panth-dat/Leets/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Panth-dat/Leets/tree/master/1291-sequential-digits) |
 | [2951-find-the-peaks](https://github.com/Panth-dat/Leets/tree/master/2951-find-the-peaks) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Panth-dat/Leets/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Number Theory
