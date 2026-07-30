@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Panth-dat/Leets/tree/master/2481-strictly-palindromic-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Panth-dat/Leets/tree/master/2619-categorize-box-according-to-criteria) |
 | [2850-construct-the-longest-new-string](https://github.com/Panth-dat/Leets/tree/master/2850-construct-the-longest-new-string) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Panth-dat/Leets/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Panth-dat/Leets/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Panth-dat/Leets/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Panth-dat/Leets/tree/master/3600-find-the-k-th-character-in-string-game-i) |
