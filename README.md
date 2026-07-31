@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Panth-dat/Leets/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Panth-dat/Leets/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Panth-dat/Leets/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Panth-dat/Leets/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Panth-dat/Leets/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Panth-dat/Leets/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Panth-dat/Leets/tree/master/0118-pascals-triangle) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Panth-dat/Leets/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Panth-dat/Leets/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Panth-dat/Leets/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Panth-dat/Leets/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Panth-dat/Leets/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Panth-dat/Leets/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Panth-dat/Leets/tree/master/0219-contains-duplicate-ii) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Panth-dat/Leets/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Panth-dat/Leets/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
