@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Panth-dat/Leets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Panth-dat/Leets/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Panth-dat/Leets/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Panth-dat/Leets/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Panth-dat/Leets/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Panth-dat/Leets/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Panth-dat/Leets/tree/master/0056-merge-intervals) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Panth-dat/Leets/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Panth-dat/Leets/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Panth-dat/Leets/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Panth-dat/Leets/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Panth-dat/Leets/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Panth-dat/Leets/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Panth-dat/Leets/tree/master/0067-add-binary) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Panth-dat/Leets/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Panth-dat/Leets/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Panth-dat/Leets/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
