@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Panth-dat/Leets/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Panth-dat/Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Panth-dat/Leets/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Panth-dat/Leets/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Panth-dat/Leets/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Panth-dat/Leets/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Panth-dat/Leets/tree/master/0164-maximum-gap) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Panth-dat/Leets/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Panth-dat/Leets/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Panth-dat/Leets/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Panth-dat/Leets/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Panth-dat/Leets/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Panth-dat/Leets/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Panth-dat/Leets/tree/master/0189-rotate-array) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Panth-dat/Leets/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Panth-dat/Leets/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Panth-dat/Leets/tree/master/0316-remove-duplicate-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/Panth-dat/Leets/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Panth-dat/Leets/tree/master/2390-removing-stars-from-a-string) |
