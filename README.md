@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Panth-dat/Leets/tree/master/2574-left-and-right-sum-differences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Panth-dat/Leets/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2951-find-the-peaks](https://github.com/Panth-dat/Leets/tree/master/2951-find-the-peaks) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Panth-dat/Leets/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Panth-dat/Leets/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Panth-dat/Leets/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Panth-dat/Leets/tree/master/3689-maximum-total-subarray-value-i) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Panth-dat/Leets/tree/master/1189-maximum-number-of-balloons) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Panth-dat/Leets/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2405-optimal-partition-of-string](https://github.com/Panth-dat/Leets/tree/master/2405-optimal-partition-of-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Panth-dat/Leets/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Panth-dat/Leets/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Panth-dat/Leets/tree/master/3866-first-unique-even-element) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Panth-dat/Leets/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/1019-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Panth-dat/Leets/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Panth-dat/Leets/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Panth-dat/Leets/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Panth-dat/Leets/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Panth-dat/Leets/tree/master/3731-find-missing-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/Panth-dat/Leets/tree/master/3859-maximum-product-of-two-digits) |
