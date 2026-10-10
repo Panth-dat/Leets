@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2644-find-the-maximum-divisibility-score](https://github.com/Panth-dat/Leets/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2951-find-the-peaks](https://github.com/Panth-dat/Leets/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Panth-dat/Leets/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Panth-dat/Leets/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Panth-dat/Leets/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Panth-dat/Leets/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Panth-dat/Leets/tree/master/3689-maximum-total-subarray-value-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Panth-dat/Leets/tree/master/1019-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Panth-dat/Leets/tree/master/2000-reverse-prefix-of-word) |
 | [2481-strictly-palindromic-number](https://github.com/Panth-dat/Leets/tree/master/2481-strictly-palindromic-number) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Panth-dat/Leets/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Panth-dat/Leets/tree/master/3884-first-matching-character-from-both-ends) |
 ## Math
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Panth-dat/Leets/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Panth-dat/Leets/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/Panth-dat/Leets/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Panth-dat/Leets/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Panth-dat/Leets/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Panth-dat/Leets/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Panth-dat/Leets/tree/master/3612-process-string-with-special-operations-i) |
