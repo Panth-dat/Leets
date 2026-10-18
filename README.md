@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Panth-dat/Leets/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Panth-dat/Leets/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Panth-dat/Leets/tree/master/0476-number-complement) |
+| [1009-complement-of-base-10-integer](https://github.com/Panth-dat/Leets/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Panth-dat/Leets/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Panth-dat/Leets/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Panth-dat/Leets/tree/master/3600-find-the-k-th-character-in-string-game-i) |
