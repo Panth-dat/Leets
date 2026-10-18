@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Panth-dat/Leets/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Panth-dat/Leets/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Panth-dat/Leets/tree/master/3462-vowels-game-in-a-string) |
+| [3492-maximum-containers-on-a-ship](https://github.com/Panth-dat/Leets/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Panth-dat/Leets/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Panth-dat/Leets/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3625-stone-removal-game](https://github.com/Panth-dat/Leets/tree/master/3625-stone-removal-game) |
