@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Panth-dat/Leets/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Panth-dat/Leets/tree/master/1189-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Panth-dat/Leets/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Panth-dat/Leets/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Panth-dat/Leets/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/Panth-dat/Leets/tree/master/3866-first-unique-even-element) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Panth-dat/Leets/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Panth-dat/Leets/tree/master/1095-find-in-mountain-array) |
 | [1115-valid-boomerang](https://github.com/Panth-dat/Leets/tree/master/1115-valid-boomerang) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Panth-dat/Leets/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Panth-dat/Leets/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Panth-dat/Leets/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Panth-dat/Leets/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1732-find-the-highest-altitude](https://github.com/Panth-dat/Leets/tree/master/1732-find-the-highest-altitude) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Panth-dat/Leets/tree/master/0500-keyboard-row) |
 | [0888-fair-candy-swap](https://github.com/Panth-dat/Leets/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/Panth-dat/Leets/tree/master/1189-maximum-number-of-balloons) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Panth-dat/Leets/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Panth-dat/Leets/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2405-optimal-partition-of-string](https://github.com/Panth-dat/Leets/tree/master/2405-optimal-partition-of-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Panth-dat/Leets/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
