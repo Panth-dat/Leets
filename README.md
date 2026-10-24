@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Panth-dat/Leets/tree/master/1448-maximum-69-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Panth-dat/Leets/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Panth-dat/Leets/tree/master/2481-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/Panth-dat/Leets/tree/master/2485-find-the-pivot-integer) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Panth-dat/Leets/tree/master/2619-categorize-box-according-to-criteria) |
 | [2850-construct-the-longest-new-string](https://github.com/Panth-dat/Leets/tree/master/2850-construct-the-longest-new-string) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Panth-dat/Leets/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Panth-dat/Leets/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Panth-dat/Leets/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/Panth-dat/Leets/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Panth-dat/Leets/tree/master/2574-left-and-right-sum-differences) |
 ## Interactive
 |  |
